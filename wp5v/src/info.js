@@ -1,0 +1,1 @@
+export default "inner text sample info.js"
